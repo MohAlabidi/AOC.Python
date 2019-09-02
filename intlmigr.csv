@@ -1,0 +1,1163 @@
+year_month,month_of_release,passenger_type,direction,citizenship,visa,country_of_residence,estimate,standard_error,status
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Andorra,1,0,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Andorra,0.126,0.27684288,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Andorra,1,0,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Andorra,0.022,0.103844373,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Andorra,0.576,0.534350658,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Andorra,0.01,0.043844373,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Andorra,0.344,0.477716937,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Andorra,0.072,0.21057732,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Andorra,0.59,0.486949614,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Andorra,0.376,0.481353993,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Andorra,0.006,0.03,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Andorra,0.004,0.02,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Andorra,0.002,0.01,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Andorra,0.004,0.02,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Andorra,0.344,0.476427822,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Other,United Arab Emirates,0.59,0.457694753,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Other,United Arab Emirates,0.378,0.505566891,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Other,United Arab Emirates,0.098,0.133514503,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Other,United Arab Emirates,0.014,0.034256788,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Other,United Arab Emirates,0.014,0.050427497,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,12,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,10,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,1,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,10.308,0.434686109,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,8.76,0.419090805,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,19.2,1.248993655,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,10.932,0.907579474,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,17.814,1.744048425,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,16.504,1.450689548,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,9.442,1.04634948,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,15.16,1.421537251,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,10.99,2.005737423,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,12.96,1.905998543,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,9.058,1.548417595,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,15.23,2.377187521,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,3.774,1.453967135,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,United Arab Emirates,7.412,1.892417534,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,25,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,12,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,10,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,12.454,0.474007002,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,7.96,0.147930152,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,18.936,0.778819028,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,8.868,0.949306787,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,10.072,1.173514042,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,10.966,1.328290281,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,12.836,1.358335734,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,2.332,0.869845274,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,15.766,2.435139247,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,27.308,2.505198365,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,15.35,2.031096148,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,6.49,1.349308592,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,5.568,1.081956278,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,United Arab Emirates,6.56,1.529377043,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,16,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,22,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,14,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,28.532,0.733027648,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,26.66,0.507093893,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,19.036,1.325248352,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,14.18,1.243701953,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,21.712,1.877472722,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,16.694,1.669808214,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,13.384,1.73961849,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,14.414,2.107087561,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,13.422,2.321031241,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,11.712,1.960667215,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,9.182,1.954916877,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,6.056,1.773446318,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,12.872,2.480532565,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,United Arab Emirates,13.464,2.789545131,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,25,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,27,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,26.424,0.461435707,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,36,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,28.546,0.52278689,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,33.858,1.637562694,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,37.168,2.168597211,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,26.528,1.925205659,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,25.92,2.161391501,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,32.2,2.292663519,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,17.316,1.988116895,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,35.46,3.238525175,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,31.272,2.83986982,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,22.19,2.938060982,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,23.384,3.024834636,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,21.64,2.89977748,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,United Arab Emirates,15.832,3.023509987,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,United Arab Emirates,3,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,United Arab Emirates,1,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,United Arab Emirates,1,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,United Arab Emirates,0.906,0.270992476,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,United Arab Emirates,0.48,0.55380897,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,United Arab Emirates,0.608,0.531725511,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,United Arab Emirates,2.384,0.805742489,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,United Arab Emirates,1.292,0.788431968,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,United Arab Emirates,0.158,0.37294101,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,United Arab Emirates,8.26,1.897777507,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,United Arab Emirates,0.048,0.159923499,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,United Arab Emirates,0.738,0.776640588,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,United Arab Emirates,0.25,0.465823372,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,United Arab Emirates,0.168,0.351188417,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,United Arab Emirates,0.2,0.407029023,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,28,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,16,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,25,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,15.244,0.68006502,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,32.904,1.498444701,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,90.224,3.015635312,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,28.152,2.756512237,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,20.986,2.277237882,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,24.03,2.687799391,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,31.14,3.113541815,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,38.704,4.077202972,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,33.626,3.857987658,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,17.942,3.020249761,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,17.886,3.214187453,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,13.71,2.925747644,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,13.98,2.978407331,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,United Arab Emirates,22.142,4.070674978,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Afghanistan,0.02,0.087688746,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Afghanistan,0.726,0.597493514,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Afghanistan,0.018,0.051794495,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Afghanistan,8,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Afghanistan,5.188,0.32973313,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Afghanistan,2,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Afghanistan,4.716,0.49585772,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Afghanistan,18.194,0.923995463,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Afghanistan,14.186,1.050411308,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Afghanistan,13.362,0.878067003,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Afghanistan,14.062,0.884918169,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Afghanistan,0.886,0.284302687,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Afghanistan,8.894,1.107809499,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Afghanistan,1.676,0.540206788,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Afghanistan,6.074,1.223974805,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Afghanistan,4.19,0.938039714,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Afghanistan,2.726,0.866019585,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Afghanistan,5.212,1.146806276,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Afghanistan,0.932,0.226387811,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Afghanistan,0.808,0.388771779,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Afghanistan,0.306,0.458857037,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Afghanistan,6,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Afghanistan,4,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Afghanistan,5,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Afghanistan,6,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Afghanistan,7,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Afghanistan,5,0,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Afghanistan,3.924,0.210810852,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Afghanistan,0.95,0.177865615,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Afghanistan,0.952,0.181282491,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Afghanistan,1.552,0.55463213,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Afghanistan,0.01,0.036583124,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Afghanistan,1.054,0.628661378,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Afghanistan,3.566,1.05994822,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Afghanistan,0.702,0.470219562,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Afghanistan,0.494,0.454314712,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Afghanistan,1,0,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Afghanistan,0.94,0.193157026,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Afghanistan,0.932,0.220845772,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Afghanistan,0.896,0.287492218,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Afghanistan,0.758,0.491465125,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Afghanistan,0.028,0.100241406,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Afghanistan,0.018,0.083844373,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Afghanistan,0.592,0.507049072,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Afghanistan,0.094,0.260012944,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Afghanistan,1,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Afghanistan,1,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Afghanistan,2,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Afghanistan,1,0,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Afghanistan,0.848,0.348237073,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Afghanistan,0.804,0.362772262,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Afghanistan,3.826,0.828543323,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Afghanistan,4.684,0.958685617,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Afghanistan,0.61,0.517424058,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Afghanistan,0.604,0.497116034,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Afghanistan,0.238,0.423258318,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Afghanistan,0.362,0.500972866,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Afghanistan,0.032,0.126397033,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Antigua and Barbuda,0.02,0.087688746,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Antigua and Barbuda,1,0,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Antigua and Barbuda,0.462,0.496232588,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Antigua and Barbuda,0.002,0.01,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Antigua and Barbuda,0.002,0.01,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Antigua and Barbuda,1,0,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Antigua and Barbuda,0.006,0.03,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Antigua and Barbuda,0.102,0.274832094,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Antigua and Barbuda,0.49,0.500264851,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Antigua and Barbuda,0.07,0.202519735,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Antigua and Barbuda,0.212,0.404342743,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Antigua and Barbuda,0.02,0.081533119,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Antigua and Barbuda,0.004,0.02,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Anguilla,0.002,0.01,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Anguilla,0.002,0.01,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Albania,0.06,0.176642409,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Albania,0.748,0.423518083,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Albania,0.004,0.02,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Albania,0.324,0.465947155,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Albania,1,0,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Albania,0.796,0.386951399,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Albania,0.756,0.4123459,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Albania,0.076,0.2305736,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Albania,1.282,0.669692225,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Albania,0.08,0.246880192,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Albania,1,0,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Albania,0.726,0.443890021,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Albania,0.43,0.502274369,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Albania,0.002,0.01,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Armenia,1,0,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Armenia,0.576,0.479386344,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Armenia,0.69,0.465882218,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Armenia,0.002,0.01,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Armenia,0.242,0.409316173,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Armenia,0.004,0.02,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Armenia,0.214,0.385275262,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Armenia,0.174,0.360444602,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Armenia,0.064,0.214333647,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Armenia,0.118,0.297622863,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Angola,0.708,0.453766327,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Angola,0.002,0.01,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Angola,0.012,0.053844373,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Angola,0.002,0.01,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Angola,2,0,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Angola,0.594,0.480706542,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Angola,1.808,0.394279378,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Angola,1,0,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Angola,0.618,0.485210279,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Angola,0.074,0.212174422,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Angola,0.034,0.151533119,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Angola,0.02,0.075377492,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Angola,0.09,0.284510516,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Angola,0.008,0.04,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Angola,0.004,0.02,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Angola,0.228,0.442750273,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Antarctica,0.01,0.043844373,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Antarctica,0.456,0.494472368,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Antarctica,0.126,0.317388866,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Antarctica,0.43,0.493519055,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Antarctica,1,0,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Antarctica,0.126,0.305017229,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Antarctica,0.116,0.296344089,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Antarctica,0.492,0.565948603,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Argentina,3,0,Final
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Argentina,0.784,0.39449213,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Argentina,0.06,0.182864144,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Argentina,0.054,0.184648352,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Argentina,0.044,0.161310994,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Argentina,0.14,0.255377232,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Argentina,1,0,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Argentina,0.788,0.409031621,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Argentina,0.792,0.388473174,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Argentina,0.744,0.429139225,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Argentina,0.78,0.408281094,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Argentina,0.846,0.681421517,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Argentina,0.562,0.492493301,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Argentina,0.716,0.691661762,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Argentina,0.618,0.544366627,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Argentina,1.7,0.992544923,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Argentina,0.124,0.316254602,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Argentina,0.164,0.354259649,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,4,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,24,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,6.146,0.347020998,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,6.056,0.170629292,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,14.386,0.707002133,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,6.014,0.824314917,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,11.472,1.393337923,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,3.85,0.941758785,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,3.104,0.79882186,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,1.836,0.833850077,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,1.754,0.674005134,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,2.612,1.31404413,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,7.426,1.874614208,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,5.18,1.601471908,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,7.724,2.154961986,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,4.284,1.778277982,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Argentina,3.644,1.624461956,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,15,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,25,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,33.494,0.625830504,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,19.776,0.754127697,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,12.054,0.575354074,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,11.362,1.418404074,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,38.38,2.697837705,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,44.784,3.679715844,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,18.684,2.68177929,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,29.364,3.308590665,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,35.962,3.872598221,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,29.072,4.117243249,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,23.734,3.658644135,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,33.808,4.599974499,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,18.708,3.898847811,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,16.406,4.250155599,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Argentina,12.144,3.674042892,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,20,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,96.028,0.100854994,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,73.482,0.812136964,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,34,0.930099267,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,27.92,1.01155279,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,39.076,2.111875631,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,58.616,4.494102075,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,103.528,7.020897046,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,29.25,3.556673691,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,36.502,4.32198956,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,39.346,4.500455551,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,18.51,3.313291745,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,27.286,4.024055533,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,52.97,5.94604883,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,34.416,5.064104494,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,28.876,4.483685682,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Argentina,25.042,4.554718517,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Argentina,1.654,0.534472545,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Argentina,0.512,0.501187815,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Argentina,0.008,0.04,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Argentina,0.246,0.431486288,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Argentina,0.004,0.02,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Argentina,4,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Argentina,2,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Argentina,1.92,0.489526399,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Argentina,1.904,0.289780383,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Argentina,1,0,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Argentina,0.838,0.354374321,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Argentina,0.244,0.421465421,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Argentina,2.924,0.847935399,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Argentina,1.246,0.677375887,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Argentina,1.854,0.763385747,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Argentina,5.742,1.609553595,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Argentina,1.044,0.740317984,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Argentina,1.322,0.902386142,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Argentina,3.008,1.260973316,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Argentina,1.892,1.057292619,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Argentina,3.216,1.534195404,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Other,"Samoa, American",0.812,0.383931587,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Other,"Samoa, American",0.022,0.068101161,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Other,"Samoa, American",0.08,0.20581825,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Other,"Samoa, American",0.004,0.013844373,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Other,"Samoa, American",0.072,0.235981361,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Other,"Samoa, American",0.092,0.249775976,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,"Samoa, American",7,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,"Samoa, American",1,0,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,"Samoa, American",0.176,0.360955062,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,"Samoa, American",0.858,0.342057271,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,"Samoa, American",1.144,0.587813319,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,"Samoa, American",0.09,0.269799186,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,"Samoa, American",0.036,0.141960616,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,"Samoa, American",0.126,0.305453086,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,"Samoa, American",0.194,0.382340677,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,"Samoa, American",0.006,0.016583124,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Student,"Samoa, American",0.134,0.297668303,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",2,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",3,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",1,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",0.058,0.185300992,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",3,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",3.676,0.517581114,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",1.864,0.335014681,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",3.068,0.829554753,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",1.034,0.776641437,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",1.784,0.591444667,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",5.666,1.212280683,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",0.68,0.603124131,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",5.072,1.370100258,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",3.034,1.485128149,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",1.376,1.011713066,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",1.382,0.985173862,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,"Samoa, American",6.526,2.508824423,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Work,"Samoa, American",0.79,0.39436684,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Work,"Samoa, American",0.084,0.250543435,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,"Samoa, American",0.188,0.375038926,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,"Samoa, American",0.188,0.390553342,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,"Samoa, American",0.122,0.305275963,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,"Samoa, American",0.036,0.107407953,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,"Samoa, American",0.452,0.53510486,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,"Samoa, American",0.344,0.468828766,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,"Samoa, American",0.002,0.01,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,"Samoa, American",0.04,0.133112319,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,"Samoa, American",1,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,"Samoa, American",1,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,"Samoa, American",2.526,0.612933644,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,"Samoa, American",0.536,0.489580765,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,"Samoa, American",0.74,0.522515255,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,"Samoa, American",2.4,0.753020957,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,"Samoa, American",2.586,0.914332579,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,"Samoa, American",0.962,0.722511186,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,"Samoa, American",0.626,0.574966851,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,"Samoa, American",0.724,0.759888422,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,"Samoa, American",0.886,0.79376599,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,"Samoa, American",1.004,0.872587598,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Austria,1,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Austria,2,0,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Austria,2.47,0.626043276,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Austria,2.452,0.653925994,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Austria,0.122,0.304535392,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Austria,2.592,0.907589973,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Austria,0.466,0.554058194,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Austria,0.166,0.382522614,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Austria,0.056,0.212373031,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Austria,0.57,0.620707895,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Austria,0.056,0.21007686,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Austria,0.072,0.230217102,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Austria,1,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Austria,1,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Austria,2,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Austria,2,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Austria,2.518,1.490073266,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Austria,0.682,0.760752215,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Austria,0.938,0.500789135,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Austria,0.24,0.43019647,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Austria,5.298,2.073416652,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Austria,1.71,0.96565617,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Austria,0.278,0.449310776,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Austria,0.286,0.485081297,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Austria,0.02,0.066397033,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Austria,0.898,0.842213687,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Austria,3,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Austria,2,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Austria,4.552,0.473939966,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Austria,2,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Austria,3.998,0.856402542,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Austria,10.39,1.302892968,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Austria,1.472,0.697287033,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Austria,7.432,1.548562588,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Austria,10.15,2.09461834,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Austria,16.366,2.563476152,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Austria,7.916,2.089621641,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Austria,2.504,1.443348022,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Austria,1.606,1.194513958,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Austria,0.618,0.768367103,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Austria,2.15,1.268133997,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Austria,2.838,1.563169764,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Austria,4,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Austria,3,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Austria,1,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Austria,0.504,0.483859677,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Austria,1.066,0.848073516,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Austria,2.728,0.961827762,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Austria,2.602,1.213435004,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Austria,4.114,1.652081606,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Austria,2.622,1.26277417,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Austria,1.748,0.996845259,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Austria,5.504,1.824551223,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Austria,1.224,0.980545683,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Austria,3.362,1.476137025,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Austria,0.69,0.748655461,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Austria,2.214,1.255856851,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Austria,3.022,1.485327503,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Austria,1.986,0.793532252,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Austria,1.84,0.855278228,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Austria,0.426,0.538789522,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Austria,0.506,0.522782175,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Austria,0.094,0.268432957,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Austria,0.018,0.077688746,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Austria,0.028,0.107010621,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Austria,0.308,0.488937132,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Austria,2,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Austria,2.578,0.765935636,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Austria,1.636,0.540007703,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Austria,7.62,1.259407414,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Austria,1.402,0.640809163,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Austria,4.492,1.29785887,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Austria,3.586,1.281021899,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Austria,5.754,1.601152283,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Austria,2.148,1.040391631,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Austria,1.834,1.096622005,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Austria,2.46,1.332963193,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Austria,4.032,1.564474336,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Austria,1.432,1.057965265,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Australia,1,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Australia,1,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Australia,1,0,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Australia,5.106,0.889931418,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Australia,0.656,0.467531129,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Australia,1.064,0.679334672,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Australia,1.042,0.68262282,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Australia,0.984,0.795080501,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Australia,0.25,0.476827612,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Australia,0.764,0.867209987,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Australia,0.526,0.651437968,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Australia,1.158,1.074542991,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Australia,1.788,1.681138264,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,20,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,38,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,18.876,0.737901083,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,26.742,1.169888788,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,29.682,1.836317134,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,31.754,2.637882003,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,34.514,3.127661802,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,39.092,3.676985634,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,50.272,4.334921996,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,70.614,5.262642683,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,106.718,6.665189376,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,98.332,7.824787533,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,53.978,6.138447611,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,62.128,9.045991385,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,73.84,23.51345007,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,68.856,13.18411673,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Australia,94.556,25.48854529,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,22,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,10,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,4.232,0.534060844,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,6.328,0.449649124,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,12.47,0.465927592,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,10.152,0.956734407,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,5.578,0.906523693,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,8.144,1.149017997,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,7.712,1.180779158,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,4.678,0.90914534,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,12.008,1.772296727,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,18.152,2.472243941,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,25.562,3.264279912,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,14.434,2.352790585,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,15.662,2.937433226,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,4.654,1.674225463,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Australia,15.31,2.680646933,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,32,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,42,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,40.29,1.475300106,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,36.526,1.720909427,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,40.386,1.644628925,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,29.368,1.899608092,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,36.69,3.027206765,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,51.808,3.645676135,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,53.01,3.97457354,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,87.186,5.705287278,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,100.374,5.899460866,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,81.644,6.005270265,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,51.232,5.409454434,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,44.942,5.882815763,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,44.652,6.902517733,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,44.056,9.750693793,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Australia,40.532,9.350519199,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,149,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,167.176,0.377836392,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,109.582,1.287356091,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,134.68,2.114692474,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,117.686,2.72519209,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,104.488,4.729256375,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,111.762,6.448037423,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,152.816,9.571367132,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,147,8.90430727,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,159.556,9.609341086,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,129.548,8.604756375,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,178.286,12.18921532,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,147.74,11.26754074,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,143.63,10.60071088,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,107.372,9.250548867,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,106.866,9.622545632,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Australia,119.204,11.40339773,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,412,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,425.844,0.689723878,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,408.17,3.22274013,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,392.95,7.449268453,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,373.08,10.46551768,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,430.736,14.39270018,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,347.092,15.14928591,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,395.688,17.27646582,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,631.552,31.03818355,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,858.242,36.53497451,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,1178.224,44.00566445,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,1031.29,50.39391531,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,469.844,35.34463541,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,441.822,38.40304717,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,475.996,53.80821342,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,435.534,58.35990347,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Australia,454.6,111.5679273,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,1145,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,1181.142,1.148829723,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,1015.102,4.961223406,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,998.822,9.135390056,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,956.868,11.18332284,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,1097.366,15.01813236,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,1251.254,24.23449013,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,1230.45,27.6523632,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,1100.134,26.08129771,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,1322.792,30.37492289,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,2581.376,47.70268037,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,1367.294,36.18160766,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,1088.89,32.60278139,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,1085.692,37.41435223,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,996.172,46.3593136,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,1003.33,38.84295916,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Australia,917.472,55.42856776,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Aruba,0.66,0.472933176,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Aruba,0.006,0.03,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Aruba,0.676,0.468479238,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Aruba,0.044,0.150582822,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Aruba,0.01,0.05,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Aruba,0.01,0.043844373,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Azerbaijan,1,0,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Azerbaijan,0.002,0.01,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Azerbaijan,0.082,0.206852873,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Azerbaijan,0.004,0.02,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Azerbaijan,0.018,0.077688746,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Azerbaijan,0.914,0.261072096,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Azerbaijan,0.034,0.136397033,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Azerbaijan,0.022,0.095829216,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Azerbaijan,1,0,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Azerbaijan,0.286,0.43483293,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Azerbaijan,0.064,0.200916771,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Azerbaijan,0.788,0.404164109,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Azerbaijan,0.004,0.02,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Azerbaijan,0.292,0.46516623,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bosnia and Herzegovina,0.006,0.03,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bosnia and Herzegovina,1.87,0.345922524,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bosnia and Herzegovina,0.842,0.716947966,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bosnia and Herzegovina,0.004,0.013844373,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bosnia and Herzegovina,0.002,0.01,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bosnia and Herzegovina,2,0,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bosnia and Herzegovina,0.89,0.287805789,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bosnia and Herzegovina,0.976,0.66399495,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bosnia and Herzegovina,0.548,0.491061979,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bosnia and Herzegovina,0.186,0.373780884,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bosnia and Herzegovina,0.216,0.371544243,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Bosnia and Herzegovina,0.002,0.01,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bosnia and Herzegovina,1,0,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bosnia and Herzegovina,0.764,0.421392482,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bosnia and Herzegovina,0.192,0.376567402,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Barbados,0.048,0.165532817,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Barbados,0.096,0.248865481,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Barbados,1,0,Final
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Barbados,0.648,0.465087501,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Barbados,0.618,0.46177799,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Barbados,0.052,0.166573902,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Barbados,0.012,0.053844373,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Barbados,0.002,0.01,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Barbados,0.048,0.133643276,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Barbados,0.156,0.35447568,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Barbados,0.812,0.381034503,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Barbados,1.136,0.563057536,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Barbados,0.162,0.374263083,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Barbados,0.008,0.04,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Bangladesh,1,0,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Bangladesh,0.298,0.437675706,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Bangladesh,0.016,0.067688746,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Bangladesh,0.01,0.036583124,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bangladesh,3,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bangladesh,4,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bangladesh,1,0,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bangladesh,0.128,0.320826976,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bangladesh,0.068,0.165043296,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bangladesh,1.066,0.495915085,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bangladesh,1.728,0.452543037,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bangladesh,1.186,0.786388596,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bangladesh,0.008,0.04,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bangladesh,0.03,0.095718908,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bangladesh,0.356,0.481887941,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bangladesh,0.012,0.046583124,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bangladesh,19,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bangladesh,3,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bangladesh,1,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bangladesh,4,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bangladesh,4,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bangladesh,8.162,0.693136846,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bangladesh,0.98,0.086583124,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bangladesh,1.946,0.1910964,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bangladesh,4.152,0.5656074,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bangladesh,0.944,0.172543438,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bangladesh,4.6,0.950523826,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bangladesh,6.63,0.982737377,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bangladesh,1.25,0.561380773,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bangladesh,1.464,0.612005079,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bangladesh,3.18,0.779623051,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bangladesh,3.84,0.892918575,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,24,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,14,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,7,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,9,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,6,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,10.904,0.414463562,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,5.536,0.897695565,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,16.382,1.023854286,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,9.304,0.772752912,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,5.698,0.530878508,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,4.858,0.715491574,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,11.348,1.305459486,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,5.16,1.034878272,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,5.106,1.14965855,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,4.292,1.085796919,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,7.14,1.343559685,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bangladesh,5.542,1.857275945,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bangladesh,2,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bangladesh,2,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bangladesh,1,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bangladesh,1.29,0.434201518,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bangladesh,0.952,0.173407654,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bangladesh,2.822,0.39931273,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bangladesh,4.468,0.694373142,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bangladesh,0.884,0.307756334,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bangladesh,2.304,0.706272077,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bangladesh,0.012,0.06,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bangladesh,1.222,0.665711226,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bangladesh,2.384,0.953161846,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bangladesh,1.29,0.662362625,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bangladesh,2.564,1.108900889,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Bangladesh,0.004,0.02,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bangladesh,4,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bangladesh,2,0,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bangladesh,0.694,0.459561463,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bangladesh,1.288,0.661545155,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bangladesh,0.056,0.191081318,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bangladesh,0.518,0.495776866,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bangladesh,1.514,0.841759695,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bangladesh,0.02,0.07427187,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bangladesh,0.332,0.49458431,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bangladesh,0.29,0.458302162,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bangladesh,1.032,0.801187839,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Belgium,4,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Belgium,0.58,0.469589335,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Belgium,1.442,0.461117446,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Belgium,0.102,0.149598895,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Belgium,4.374,0.697575885,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Belgium,0.724,0.65018674,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Belgium,0.104,0.271544713,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Belgium,1.03,0.698185637,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Belgium,3.462,1.131937052,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Belgium,0.45,0.588067882,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Belgium,0.002,0.01,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Belgium,0.184,0.381821531,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Belgium,0.574,0.643991453,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Belgium,2,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Belgium,1,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Belgium,1,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Belgium,1,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Belgium,1.316,1.008394413,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Belgium,1.226,0.730477377,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Belgium,0.524,0.63650523,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Belgium,0.114,0.294850827,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Belgium,0.726,0.698993188,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Belgium,1.394,0.678884363,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Belgium,0.412,0.496969834,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Belgium,0.004,0.02,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Belgium,0.322,0.473847819,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Belgium,2,0,Final
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Belgium,3.79,0.373837257,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Belgium,3,0,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Belgium,4.87,1.199535752,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Belgium,3.606,1.135558467,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Belgium,10.782,2.035643646,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Belgium,9.284,1.758889675,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Belgium,4.176,1.578371251,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Belgium,2.336,1.270462221,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Belgium,3.15,1.466022499,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Belgium,1.086,0.982309663,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Belgium,1.062,0.923314477,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Belgium,3.036,1.724355858,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Belgium,9,0,Final
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Belgium,4.036,0.143066239,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Belgium,8.916,0.603496251,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Belgium,8.186,0.402906805,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Belgium,3.288,1.117437534,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Belgium,4.828,1.314589125,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Belgium,13.282,2.561934512,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Belgium,18.682,3.105110417,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Belgium,16.556,3.117262978,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Belgium,13.558,2.693240748,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Belgium,12.642,2.827560021,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Belgium,6.278,1.966634587,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Belgium,11.224,2.735229272,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Belgium,5.452,1.899728572,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Belgium,5.21,2.041385295,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Belgium,6.056,2.268186121,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Belgium,0.062,0.168353314,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Belgium,0.06,0.202137485,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Belgium,0.046,0.154498194,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Belgium,0.036,0.135804989,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Belgium,0.002,0.01,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Belgium,0.004,0.02,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Belgium,0.066,0.205338105,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Belgium,2,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Belgium,3,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Belgium,1,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Belgium,2,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Belgium,2.112,0.651303091,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Belgium,0.822,0.374192076,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Belgium,0.814,0.385423786,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Belgium,1.244,0.668621888,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Belgium,1.084,0.688766242,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Belgium,6.018,1.381952814,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Belgium,3.536,1.267494068,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Belgium,0.896,0.746946773,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Belgium,0.216,0.42998549,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Belgium,1.494,0.987273418,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Belgium,0.038,0.128949693,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Belgium,0.028,0.11427187,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Burkina Faso,0.13,0.320773058,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Burkina Faso,0.054,0.19281561,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Burkina Faso,0.002,0.01,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Burkina Faso,0.05,0.190668903,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Burkina Faso,0.008,0.033844373,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Burkina Faso,0.042,0.152388113,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Burkina Faso,0.006,0.03,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Burkina Faso,0.01,0.043844373,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Bulgaria,0.114,0.19639991,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Bulgaria,0.026,0.097010621,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bulgaria,1.176,0.673463384,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bulgaria,0.014,0.063844373,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bulgaria,0.004,0.02,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bulgaria,1,0,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bulgaria,0.954,0.171282491,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bulgaria,2,0,Final
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bulgaria,1.054,0.393096026,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bulgaria,0.874,0.438573806,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bulgaria,0.034,0.151533119,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bulgaria,0.726,0.486877769,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bulgaria,0.526,0.489647143,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bulgaria,2.286,0.992675396,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bulgaria,0.684,0.683516265,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bulgaria,0.036,0.155377492,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bulgaria,0.67,0.735844633,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bulgaria,0.732,0.796044962,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bulgaria,0.106,0.28584081,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bulgaria,1,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bulgaria,1,0,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bulgaria,0.608,0.486994312,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bulgaria,0.144,0.309375537,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bulgaria,0.128,0.303591136,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bulgaria,0.522,0.510371931,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bulgaria,0.11,0.299614873,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bulgaria,0.992,0.850662107,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bulgaria,1,0,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bulgaria,0.742,0.431700078,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bulgaria,0.768,0.495584452,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bulgaria,0.142,0.30561369,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bulgaria,0.654,0.537035999,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bulgaria,0.126,0.33551277,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bulgaria,0.094,0.290594594,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bulgaria,0.25,0.438814097,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bahrain,2,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bahrain,1,0,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bahrain,0.83,0.35827518,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bahrain,0.22,0.402302943,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bahrain,1.796,0.799195719,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bahrain,0.758,0.665013525,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bahrain,2,0,Final
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bahrain,1,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bahrain,1,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bahrain,0.562,0.477766603,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bahrain,0.674,0.457968697,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bahrain,0.262,0.440564143,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bahrain,0.264,0.428901245,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bahrain,0.666,0.570766645,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bahrain,1,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bahrain,2,0,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bahrain,0.678,0.460756266,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bahrain,0.842,0.360391963,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bahrain,0.908,0.26968526,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bahrain,0.97,0.54535076,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bahrain,0.804,0.386470294,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bahrain,2.214,0.863354823,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bahrain,0.038,0.144085779,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bahrain,2.054,0.890746501,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bahrain,0.534,0.544154271,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahrain,3,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahrain,1,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahrain,2,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahrain,3,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahrain,1,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahrain,1.84,0.359575662,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahrain,0.956,0.154021242,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahrain,1.812,0.388685003,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahrain,1.414,0.56324303,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahrain,0.896,0.287129678,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahrain,0.858,0.343034369,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahrain,2.09,0.733721908,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahrain,0.79,0.401213427,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahrain,0.97,0.612984749,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahrain,1.182,0.681488165,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahrain,0.996,0.701060745,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Bahrain,0.156,0.366673871,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Bahrain,0.006,0.03,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahrain,2,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahrain,1,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahrain,3,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahrain,2,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahrain,1,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahrain,0.778,0.412794695,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahrain,2.408,0.669009391,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahrain,2.164,0.890510099,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahrain,0.612,0.48064683,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahrain,1.28,0.94458826,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahrain,0.402,0.586745662,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahrain,0.738,0.715459582,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahrain,0.234,0.467026396,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahrain,0.786,0.764717642,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Burundi,0.254,0.394713126,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Burundi,4,0,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Burundi,2.62,0.554540816,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Burundi,1,0,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Benin,0.024,0.079135784,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Benin,0.006,0.03,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Benin,0.006,0.03,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Benin,0.002,0.01,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Benin,0.01,0.043844373,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bermuda,0.47,0.484688407,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bermuda,0.498,0.492357338,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bermuda,0.176,0.3514057,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bermuda,0.332,0.463457558,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bermuda,0.59,0.494583719,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bermuda,0.164,0.351978047,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bermuda,0.488,0.49791546,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bermuda,0.016,0.08,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bermuda,0.39,0.526582939,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bermuda,0.004,0.02,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bermuda,0.014,0.050427497,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bermuda,0.012,0.06,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bermuda,0.002,0.01,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bermuda,0.218,0.40388778,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bermuda,0.936,0.709827884,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bermuda,0.062,0.185016058,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Bermuda,0.084,0.245883814,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Bermuda,0.094,0.278423712,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bermuda,3.898,0.278258011,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bermuda,1,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bermuda,0.814,0.38413894,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bermuda,0.384,0.465369838,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bermuda,1.238,0.630646139,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bermuda,1.158,0.671848478,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bermuda,0.076,0.238519436,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bermuda,0.414,0.495702259,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bermuda,0.53,0.534636767,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bermuda,0.034,0.143517963,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bermuda,0.002,0.01,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bermuda,0.942,0.83683737,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Brunei Darussalam,2.438,0.634738198,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Brunei Darussalam,0.38,0.437050951,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brunei Darussalam,2,0,Final
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brunei Darussalam,2,0,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brunei Darussalam,0.586,0.586962437,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brunei Darussalam,0.582,0.483953944,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brunei Darussalam,1.594,0.800322007,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brunei Darussalam,0.076,0.227890765,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brunei Darussalam,0.636,0.631096968,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brunei Darussalam,0.184,0.395346777,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brunei Darussalam,0.374,0.502836427,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brunei Darussalam,4,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brunei Darussalam,7,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brunei Darussalam,2,0,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brunei Darussalam,1.516,0.571345659,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brunei Darussalam,2.384,0.949153133,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brunei Darussalam,1.674,1.021424835,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brunei Darussalam,2.2,1.222103535,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brunei Darussalam,0.058,0.181370537,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brunei Darussalam,0.326,0.505930264,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brunei Darussalam,2,0,Final
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brunei Darussalam,0.684,0.436769872,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brunei Darussalam,0.72,0.447252624,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brunei Darussalam,0.462,0.496985716,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brunei Darussalam,1.836,0.819230074,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brunei Darussalam,0.15,0.356306768,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brunei Darussalam,0.018,0.083844373,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brunei Darussalam,0.472,0.623561016,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brunei Darussalam,0.034,0.130854994,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brunei Darussalam,2,0,Final
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brunei Darussalam,1,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brunei Darussalam,1,0,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brunei Darussalam,0.27,0.411318465,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brunei Darussalam,0.856,0.342210338,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brunei Darussalam,1.79,0.506369416,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brunei Darussalam,0.848,0.44988957,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brunei Darussalam,0.016,0.073844373,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brunei Darussalam,0.638,0.490825337,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brunei Darussalam,0.318,0.478782894,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brunei Darussalam,0.692,0.665881729,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brunei Darussalam,4,0,Final
+2018-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brunei Darussalam,0.878,0.286254118,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brunei Darussalam,1,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brunei Darussalam,6.386,0.739741141,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brunei Darussalam,5.642,0.990234088,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brunei Darussalam,0.578,0.490727072,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brunei Darussalam,0.792,0.62118652,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brunei Darussalam,9.834,1.801923132,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brunei Darussalam,12.754,1.891629452,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brunei Darussalam,2.584,0.889343595,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brunei Darussalam,0.222,0.446056658,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brunei Darussalam,2.608,1.412537529,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brunei Darussalam,1.624,1.005479732,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brunei Darussalam,0.952,0.799369327,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brunei Darussalam,0.656,0.701573972,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Bolivia,0.006,0.023844373,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bolivia,0.342,0.468057005,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bolivia,1,0,Final
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bolivia,1,0,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bolivia,0.802,0.385323477,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bolivia,1.308,0.868352702,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bolivia,1.368,0.677493846,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bolivia,0.47,0.493515067,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bolivia,0.02,0.080427497,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bolivia,1,0,Final
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bolivia,0.792,0.402311488,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bolivia,1.246,0.623768275,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bolivia,0.024,0.100427497,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bolivia,0.006,0.023844373,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bolivia,0.132,0.334851332,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bolivia,1,0,Final
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bolivia,1,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bolivia,2,0,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bolivia,0.234,0.405571723,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bolivia,0.634,0.479607727,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Bolivia,0.002,0.01,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bolivia,1,0,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bolivia,0.68,0.466293609,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bolivia,0.064,0.208107021,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bolivia,0.418,0.502723863,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Brazil,2,0,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Brazil,1.448,0.59941912,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Brazil,0.678,0.451402103,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Brazil,0.036,0.122221992,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Brazil,0.022,0.08427187,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Brazil,0.734,0.570605894,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Brazil,0.364,0.53256072,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Brazil,0.944,1.074256953,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Brazil,1.23,1.184304724,Provisional
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brazil,1,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brazil,3,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brazil,1,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brazil,2,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brazil,2,0,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brazil,0.854,0.335678926,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brazil,0.666,0.469771636,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brazil,0.788,0.3885456,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brazil,1.564,0.721963746,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brazil,6.522,1.388690676,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brazil,0.668,0.501666047,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brazil,2.214,0.985654896,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brazil,2.354,1.068573313,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brazil,0.438,0.510501845,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brazil,0.756,0.658123535,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Brazil,0.744,0.689254178,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,97,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,83,0,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,72,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,54.32,0.505906919,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,46.18,1.361320848,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,41.312,2.05734628,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,54.954,3.564070475,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,40.054,3.803228675,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,29.03,3.17277884,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,28.91,3.424035823,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,25.47,2.953049792,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,53.8,6.171939748,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,46.674,5.151402377,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,57.136,6.390650083,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,22.254,3.992312647,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,21.382,4.199118248,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Brazil,19.642,4.331434873,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,52,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,61.12,0.211073007,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,35.736,0.391739648,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,48.68,1.042598795,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,58.986,1.378903578,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,33.494,1.932540126,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,67.166,3.668698018,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,38.828,3.014737032,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,41.802,3.793561286,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,47.9,4.024340576,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,56.922,5.165286104,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,43.196,4.592852418,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,41.154,4.749213419,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,39.066,4.831671393,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,16.352,3.260800396,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,24.194,4.468988198,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Brazil,23.054,5.191519633,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,32,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,45.014,0.048708287,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,33.006,0.03,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,23.09,0.240709686,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,35.202,0.919784826,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,15.39,1.44769814,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,60.01,4.274771201,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,27.674,3.260197329,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,11.844,2.235911575,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,19.71,2.966595489,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,13.692,2.59142945,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,14.89,2.981185386,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,18.332,3.255031016,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,17.664,3.308123767,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,11.26,2.799671214,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,9.848,2.671277964,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Brazil,9.664,2.666478737,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Brazil,0.144,0.330077479,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Brazil,0.35,0.486439899,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Brazil,0.284,0.440054846,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Brazil,0.204,0.396093086,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brazil,1,0,Final
+2018-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brazil,7,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brazil,2,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brazil,1.472,0.625466136,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brazil,5.438,0.623052358,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brazil,10.718,1.423798764,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brazil,1.592,0.573109445,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brazil,0.494,0.490046802,Provisional
+2018-11,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brazil,7.006,1.408981018,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brazil,5.804,1.266365368,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brazil,3.716,1.237568018,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brazil,5.82,1.412731806,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brazil,1.76,0.929447463,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brazil,3.788,1.433953001,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brazil,1.424,0.951726526,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Brazil,1.006,0.830117229,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Bahamas,0.07,0.187628735,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bahamas,0.814,0.379827116,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Bahamas,0.142,0.328387848,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bahamas,1,0,Final
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bahamas,1.5,0.825191877,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bahamas,0.002,0.01,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bahamas,0.002,0.01,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bahamas,0.088,0.247447585,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bahamas,0.08,0.242085175,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Bahamas,0.264,0.440474001,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahamas,0.578,0.489729345,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahamas,0.584,0.489450167,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahamas,0.012,0.053844373,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahamas,0.024,0.100427497,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bahamas,0.054,0.20007686,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bhutan,3,0,Final
+2018-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bhutan,1,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bhutan,1.468,0.480094987,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bhutan,2.412,0.650716277,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bhutan,2.538,0.584504671,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bhutan,2.604,0.554686176,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bhutan,0.854,0.349610123,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bhutan,0.096,0.238047992,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bhutan,0.818,0.384820702,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Bhutan,0.798,0.392551387,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bhutan,2,0,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bhutan,0.896,0.351966243,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bhutan,0.002,0.01,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Bhutan,0.002,0.01,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bhutan,1,0,Final
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bhutan,0.212,0.402051707,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bhutan,0.858,0.338297629,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bhutan,0.748,0.412021733,Provisional
+2019-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bhutan,0.784,0.387930502,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bhutan,0.024,0.095377492,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Bhutan,0.012,0.053844373,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,NZ and Australian citizens,Bhutan,0.002,0.01,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,NZ,NZ and Australian citizens,Bhutan,0.006,0.03,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Other,Botswana,0.026,0.07510532,Provisional
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Botswana,1,0,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Resident,Botswana,0.024,0.09255266,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Botswana,4,0,Final
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Botswana,2,0,Provisional
+2018-07,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Botswana,1.848,0.362687484,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Botswana,0.974,0.076757252,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Botswana,0.974,0.105377492,Provisional
+2018-10,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Botswana,0.734,0.43897343,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Botswana,2.664,0.499887542,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Botswana,0.888,0.29348398,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Botswana,0.936,0.195629646,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Student,Botswana,1.61,0.527197614,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Botswana,1,0,Provisional
+2018-08,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Botswana,1.942,0.188699065,Provisional
+2018-09,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Botswana,2.858,0.332856045,Provisional
+2018-12,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Botswana,0.944,0.174096527,Provisional
+2019-01,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Botswana,0.638,0.535586984,Provisional
+2019-03,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Botswana,0.08,0.23055932,Provisional
+2019-04,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Botswana,1.048,0.509891786,Provisional
+2019-05,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Botswana,1.628,0.746439548,Provisional
+2019-06,2019-06,Long-term migrant,Arrivals,non-NZ,Visitor,Botswana,0.866,0.315431416,Provisional
+2018-02,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Botswana,2,0,Final
+2018-04,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Botswana,3,0,Provisional
+2018-05,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Botswana,1,0,Provisional
+2018-06,2019-06,Long-term migrant,Arrivals,non-NZ,Work,Botswana,1,0,Provisional
